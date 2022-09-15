@@ -1,0 +1,5 @@
+Texto do nó: Texto. Nível do nó: 1. Altura do nó: 0. 
+Texto do nó: de exemplo. Nível do nó: 2. Altura do nó: 0. 
+Texto do nó: para. Nível do nó: 2. Altura do nó: 0. 
+Texto do nó: assemble. Nível do nó: 3. Altura do nó: 0. 
+Texto do nó: do documento.. Nível do nó: 3. Altura do nó: 0. 
